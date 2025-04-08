@@ -1,0 +1,37 @@
+#root{
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+}
+
+body {
+    background-color:  peachpuff;
+    color:rgb(163, 107, 3);
+    padding: 1em;
+    margin: 1em;
+    min-width: 80vh;
+    min-height: 40vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+button {
+    color: peachpuff;
+    background-color: rgb(163, 107, 3);
+}
+
+.link {
+    color:rgb(163, 107, 3);
+    font-size: 20px;
+}
+
+.form{
+    border-color: rgb(163, 107, 3);
+}
+
+.albumBot {
+    width: 100%;
+}
